@@ -29,8 +29,10 @@ Meus interesses estão voltados para o **Desenvolvimento Front-End** e **UX Desi
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=almeidahpedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidahpedro&layout=compact&langs_count=7&theme=tokyonight)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=almeidahpedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidahpedro&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 ---
 
