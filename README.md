@@ -42,27 +42,42 @@
 
 <h2>📂 Projetos</h2>
 
-<div align="left" style="font-size: 14px; color: #cccccc; line-height: 1.6;">
-
-  <p>
-    <strong>💉 <a href="https://github.com/almeidahpedro/vaxlogix-system" target="_blank" style="color: #FF6600;">vaxlogix-system</a></strong><br>
-    Sistema de controle técnico para campanhas de vacinação corporativa, com rastreabilidade de vacinas, empresas e colaboradores.<br>
-    <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-  </p>
-
-  <p>
-    <strong>📺 <a href="https://github.com/almeidahpedro/anime-catalog" target="_blank" style="color: #FF6600;">anime-catalog</a></strong><br>
-    Catálogo de animes com foco em design inspirado em plataformas de streaming, usando front-end moderno.<br>
-    <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  </p>
-
-</div>
+<table>
+  <tr>
+    <td valign="top" style="padding: 10px;">
+      <div style="background-color: #161b22; border: 1px solid #ffffff; border-radius: 12px; padding: 16px; width: 300px; font-family: sans-serif;">
+        <h4 style="color: #FF6600; margin-top: 0; margin-bottom: 6px; ">
+          💉 <a href="https://github.com/almeidahpedro/vaxlogix-system" target="_blank" style="color: #FF6600; text-decoration: none; text-transform: uppercase;">VAXLOGIX-SYSTEM</a>
+        </h4>
+        <h6 style="color: #cccccc; font-size: 10px; margin: 0 0 8px 0;">
+          Sistema de controle técnico para campanhas de vacinação corporativa com rastreabilidade de vacinas, empresas e colaboradores.
+        </h6>
+        <div style="margin-top: 8px;">
+          <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+        </div>
+      </div>
+    </td>
+    <td valign="top" style="padding: 10px;">
+      <div style="background-color: #161b22; border: 1px solid #ffffff; border-radius: 12px; padding: 16px; width: 300px; font-family: sans-serif;">
+        <h4 style="color: #FF6600; font-size: 12px; margin-top: 0; margin-bottom: 6px;">
+          📺 <a href="https://github.com/almeidahpedro/anime-catalog" target="_blank" style="color: #FF6600; text-decoration: none;">ANIME-CATALOG</a>
+        </h4>
+        <h6 style="color: #cccccc; font-size: 10px; margin: 0 0 8px 0;">
+          Catálogo de animes com layout inspirado em plataformas de streaming. Projeto focado em front-end com HTML, CSS e JavaScript.
+        </h6>
+        <div style="margin-top: 8px;">
+          <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
