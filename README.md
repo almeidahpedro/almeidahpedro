@@ -35,27 +35,32 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=almeidahpedro&color=red&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=almeidahpedro&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
 <hr>
 
 <h2>📂 Projetos</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+<div align="left" style="font-size: 14px; color: #cccccc; line-height: 1.6;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; max-width: 250px;">
-    <a href="https://github.com/almeidahpedro/vaxlogix-system" target="_blank" style="font-weight: bold; font-size: 1.2rem; color: #58a6ff; text-decoration: none; margin-bottom: 0.5rem;">
-      📗 vaxlogix-system
-    </a>
-    <div>
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-    </div>
-  </div>
+  <p>
+    <strong>💉 <a href="https://github.com/almeidahpedro/vaxlogix-system" target="_blank" style="color: #FF6600;">vaxlogix-system</a></strong><br>
+    Sistema de controle técnico para campanhas de vacinação corporativa, com rastreabilidade de vacinas, empresas e colaboradores.<br>
+    <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  </p>
+
+  <p>
+    <strong>📺 <a href="https://github.com/almeidahpedro/anime-catalog" target="_blank" style="color: #FF6600;">anime-catalog</a></strong><br>
+    Catálogo de animes com foco em design inspirado em plataformas de streaming, usando front-end moderno.<br>
+    <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  </p>
 
 </div>
 
@@ -63,7 +68,11 @@
 
 <h2>📫 Contato</h2>
 
-<p>
-  <a href="https://www.instagram.com/almeidahpedro" target="_blank">📷 Instagram</a><br>
-  <a href="https://www.linkedin.com/in/almeidahpedro" target="_blank">💼 LinkedIn</a>
+<p align="center">
+  <a href="https://www.instagram.com/almeidahpedro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/almeidahpedro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
