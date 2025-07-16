@@ -48,3 +48,9 @@ jobs:
           else
             echo "Sem testes configurados ainda."
           fi
+          
+      - name: Instalar pacotes front-end
+        run: npm install
+
+      - name: Build do projeto front-end
+        run: npm run build
